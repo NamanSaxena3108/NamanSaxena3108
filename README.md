@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence And Machine Learning
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Projects With Logics
-- 📫 You can contact with me on E-Mail:- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/naman2004saxena@gmail.com)
+- 📫 You can contact with me on E-Mail:- naman2004saxena@gmail.com
 - Till now i have created some basic projects of Python.
 - Social:-
 - Official[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ig_namansaxena31)
