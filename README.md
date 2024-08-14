@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamanSaxena3108
 - 👀 I’m interested in Artificial Intelligence And Machine Learning
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and Web Devlopment
 - 💞️ I’m looking to collaborate on Projects With Logics
 - 📫 You can contact with me on E-Mail:- naman2004saxena@gmail.com
 - Till now i have created some basic projects of ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
